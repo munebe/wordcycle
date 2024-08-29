@@ -60,7 +60,6 @@ To set up the project, follow these steps:
   <img src="Screenshot-1.png" alt="Screenshot 1" style="width: 32%; max-width: 300px;">
   <img src="Screenshot-2.png" alt="Screenshot 2" style="width: 32%; max-width: 300px;">
   <img src="Screenshot-3.png" alt="Screenshot 3" style="width: 32%; max-width: 300px;">
-  <img src="Screenshot-4.png" alt="Screenshot 4" style="width: 32%; max-width: 300px;">
   <img src="Screenshot-5.png" alt="Screenshot 5" style="width: 32%; max-width: 300px;">
   <img src="Screenshot-6.png" alt="Screenshot 6" style="width: 32%; max-width: 300px;">
   <img src="Screenshot-7.png" alt="Screenshot 7" style="width: 32%; max-width: 300px;">
